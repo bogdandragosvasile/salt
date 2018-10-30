@@ -17,3 +17,8 @@ mysql:
       3fAOdA==
       =tf2P
       -----END PGP MESSAGE-----
+  database:
+    eski:
+      host: localhost
+    internal:
+      host: localhost
